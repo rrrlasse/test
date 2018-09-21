@@ -1,0 +1,5 @@
+[core]
+autocrlf=false
+*               text=auto
+*.feature       text
+*.sh            text eol=lf
